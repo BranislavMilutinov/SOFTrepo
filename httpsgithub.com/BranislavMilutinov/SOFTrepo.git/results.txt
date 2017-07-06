@@ -1,0 +1,10 @@
+video-0	69
+video-1	79
+video-2	81
+video-3	92
+video-4	97
+video-5	94
+video-6	74
+video-7	86
+video-8	99
+video-9	92
